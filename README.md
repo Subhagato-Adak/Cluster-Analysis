@@ -19,4 +19,8 @@ This visualization shows the optimum number of clusters for K-Means analysis.
 
 Cluster plot using clusplot() in cluster package.
 
+![clusterplot](https://user-images.githubusercontent.com/33694989/32950359-0f9c2ff8-cbcc-11e7-8b11-00c43b4d6424.jpeg)
+
+Cluster plot using fviz_cluster() in factoextra package.
+
 
