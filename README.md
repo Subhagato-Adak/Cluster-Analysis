@@ -1,7 +1,7 @@
 # Cluster-Analysis
 Cluster Analysis of credit card data.
 This is a small cluster analysis of the data on credit data downloaded from internet credit.csv.
-The data has 10 variables(attributes), and 255 rows(entities). There are some structural anamolies in the data which has been corrected by replacing the value for the particular entity by the mean of all the duplicates.
+The data has 10 variables(attributes), and 255 rows(entities). There are some structural anamolies in the data which have been corrected by replacing the value for the particular entity by the mean of all the duplicates.
 Import the data in the R studio.
 Here are some visualizations of the cluster analysis.
 
